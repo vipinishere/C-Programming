@@ -1,0 +1,6 @@
+enter the value of a and b:
+the size of a and b = 4	4
+the value in c variavlevalue of x = 2
+value of y = 2
+new value of x = 2
+new value of y = 2
