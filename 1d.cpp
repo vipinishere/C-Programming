@@ -1,7 +1,7 @@
 #include <conio.h>
 #include <iostream>
 int main()
-{
+           {
     int a[5], i;
     std::cout << "enter the value of array\n";
     for (i = 0; i < 5; i++)
